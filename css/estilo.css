@@ -10,5 +10,9 @@
 
 footer p a {
     margin: 5px 15px;
-    
+
+}
+
+p {
+    text-align: justify;
 }
